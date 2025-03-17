@@ -16,4 +16,11 @@ This project aims to identify missing children using **Deep Learning and Multicl
 - **Frontend:** Tkinter (for GUI)
 - **Database:** MySQL, SQLite
 
-## 📂 Project Structure
+The public can upload photographs of suspicious children into a common portal with landmarks and remarks. The photo will be automatically compared with the registered photos of the missing child from the repository, alerting higher police officials when a match is found.
+
+![image](https://github.com/user-attachments/assets/52baa89f-dc80-44bf-b903-d30cc6e399dd)
+![image](https://github.com/user-attachments/assets/7cdefd7d-db55-4614-bb6d-1e53001b6976)
+
+
+
+
